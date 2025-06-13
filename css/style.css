@@ -258,18 +258,11 @@ form {
     border-right: none;
     width: 195px;
     height: 49px;
-    /* text-align: center; */
     font-size: 18px;
     font-weight: 700;
     color: black;
     padding-left: 24px;
 }
-
-/* .choice-content input::placeholder {
-    font-size: 18px;
-    font-weight: 700;
-    color: black;
-} */
 
 form button {
     padding: 15px 16px;
@@ -382,8 +375,6 @@ form button {
 .activities-cards .card-title {
 
     padding: 20px 19px;
-    /* font-size: 16px;
-    font-weight: 700; */
     margin: 0;
 }
 
@@ -514,7 +505,6 @@ footer {
     .populaires-cards {
         display: flex;
         flex-direction: column;
-        /* gap: 15px; */
     }
 
     .populaires-cards a {
