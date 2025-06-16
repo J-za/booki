@@ -110,7 +110,6 @@ a {
     /* border-radius 15px + padding 5px = border-radius 20px sur la card */
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    object-fit: cover;
 }
 
 .hebergements-cards .card-title {
@@ -120,7 +119,6 @@ a {
 }
 
 .hebergements-cards .card-subtitle {
-    margin: 0;
     padding-left: 15px;
     font-size: 14px;
 }
@@ -165,10 +163,6 @@ a {
 .populaires-cards .card-title {
     margin-top: 10px;
     margin-bottom: 4px;
-}
-
-.populaires-cards .card-subtitle {
-    margin: 0;
 }
 
 .populaires-cards .card-rating {
@@ -253,7 +247,6 @@ form {
 }
 
 .choice-content input {
-    margin: 0;
     border: 1px solid var(--main-bg-color);
     border-right: none;
     width: 195px;
@@ -375,7 +368,6 @@ form button {
 .activities-cards .card-title {
 
     padding: 20px 19px;
-    margin: 0;
 }
 
 /* Footer */
@@ -402,7 +394,6 @@ footer {
 }
 
 .footer-section h3 {
-    margin: 0;
     font-weight: 700;
     font-size: 18px;
 }
