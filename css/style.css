@@ -212,6 +212,18 @@ header nav {
     color: var(--main-color);
     border-top: 2px solid var(--main-color);
 }
+
+.search-button-icon {
+    display: none;
+    color: white;
+
+}
+
+.search-button-text {
+    font-weight: 700;
+    font-size: 18px;
+
+}
 /******Champ de recherche***********/
 
 /* Style Partie formulaire */
@@ -301,18 +313,6 @@ form button {
 
 .filter-content button:hover {
     background-color: var(--filter-bg-color);
-}
-
-.search-button-icon {
-    display: none;
-    color: white;
-
-}
-
-.search-button-text {
-    font-weight: 700;
-    font-size: 18px;
-
 }
 
 .filter-content span {
